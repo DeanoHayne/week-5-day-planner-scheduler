@@ -9,4 +9,4 @@ This application emphasizes the use of jQuary libraries to create a weekly day p
 - To access the codebase please click on: [this link](https://github.com/deanhay/week-5-day-planner-scheduler) 
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](/assets/05-third-party-apis-homework-demo.gif)
